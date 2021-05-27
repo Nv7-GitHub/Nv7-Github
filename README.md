@@ -7,4 +7,4 @@ For faster responses, you can contact me on Discord at [Nv7#0582](https://discor
 
 ![Nv7-GitHub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nv7-Github&show_icons=true&theme=dark)
 
-![Nv7-Github's Most Used Languages](https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=Nv7-Github)
+![Nv7-Github's Most Used Languages](https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=Nv7-Github&show_icons=true&theme=dark)
