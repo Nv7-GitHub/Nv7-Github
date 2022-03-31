@@ -1,9 +1,15 @@
 # Hi!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nv7_Github.Nv7-Github)
 
-Hi! I'm Nv7! I like coding (duh). I also like solving Rubik's Cubes! I know this isn't very good, but I am still proud of my 23 second PB. Also, I use [Blender](https://blender.org). I like doing VFX and Hard Surface Modeling. I develop games using [Godot](https://godotengine.org).
+**He/Him**
+
+Some cool projects:
+
+- **Nv7Haven**: https://github.com/Nv7-Github/Nv7haven
+- **B#**: https://github.com/Nv7-Github/bsharp
+- **Scratchy**: https://github.com/Nv7-Github/scratchy
+- **CryptoMail**: https://github.com/Nv7-Github/CryptoMail
 
 For faster responses, you can contact me on Discord at [Nv7#0582](https://discord.com/users/567132457820749842)!
 
-![Nv7-GitHub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nv7-Github&show_icons=true&theme=dark&line_height=40)
-![Nv7-Github's Most Used Languages](https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=Nv7-Github&show_icons=true&theme=dark)
+![Metrics](https://metrics.lecoq.io/Nv7-Github?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FLos_Angeles)
