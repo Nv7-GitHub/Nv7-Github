@@ -7,9 +7,10 @@ Some cool projects:
 
 - **Nv7Haven**: https://github.com/Nv7-Github/Nv7haven
 - **B#**: https://github.com/Nv7-Github/bsharp
-- **Scratchy**: https://github.com/Nv7-Github/scratchy
 - **CryptoMail**: https://github.com/Nv7-Github/CryptoMail
 - **Sevcord**: https://github.com/Nv7-Github/sevcord
+- **Scratchy**: https://github.com/Nv7-Github/scratchy
+- **Chess**: https://github.com/Nv7-Github/chess
 
 For faster responses, you can contact me on Discord at [Nv7#0582](https://discord.com/users/567132457820749842)!
 
